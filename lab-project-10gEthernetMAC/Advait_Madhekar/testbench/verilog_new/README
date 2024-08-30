@@ -1,9 +1,8 @@
+TO RUN:
 
-Files Done:
-tx_agent
-virt_seqr
+Go to ../../sim/verilog_new
 
-Current Files To Be Updated:
+fix runsim for your local env.
 
+runsim
 
-Files with Errors:
