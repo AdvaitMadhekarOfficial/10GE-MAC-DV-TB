@@ -1,0 +1,11 @@
+vcs -full64 +error+100 +define+XGMII_LB -debug_access+all -ntb_opts uvm-1.1 +vcs+lic+wait -sverilog -R -l vcs.log \
++UVM_TESTNAME=uvm_test_top +UVM_VERBOSITE=MEDIUM \
+-override_timescale=1ps/1ps \
++incdir+../../rtl/include \
++incdir+/home/sf10286/UVM-Project/Advait_Madhekar/testbench/verilog_new \
++incdir+/home/sf10286/UVM-Project/Advait_Madhekar/testbench/verilog_new/* \
++incdir+/home/sf10286/UVM-Project/Advait_Madhekar/testcases/ \
+../../rtl/verilog/*.v \
+../../testbench/verilog_new/top_tb.sv \
+../../testbench/verilog_new/uvm_test_top.sv \
+../../testbench/verilog_new/testcase.sv

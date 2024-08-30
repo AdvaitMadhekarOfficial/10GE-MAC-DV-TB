@@ -1,0 +1,44 @@
+The design has assertions or cover properties.
+The assertion browser can be used to view them. Click on the assertion toolbar button or use the menu 'Window->Panes->Assertion' to open it.
+The file '/home/sf10286/UVM-Project/Advait_Madhekar/sim/verilog_new/vcdplus.vpd' was opened successfully.
+The file '/home/sf10286/UVM-Project/Advait_Madhekar/sim/verilog_new/vcdplus.vpd' was opened successfully.
+The design has assertions or cover properties.
+The assertion browser can be used to view them. Click on the assertion toolbar button or use the menu 'Window->Panes->Assertion' to open it.
+The file 'vcdplus.vpd' was opened successfully.
+The file '/home/sf10286/UVM-Project/Advait_Madhekar/sim/verilog_new/vcdplus.vpd' was opened successfully.
+With selected criteria, DVE has found 'results at time 1500051
+    top_tb.DUV.pkt_tx_data[63:0]'.
+With selected criteria, DVE has found 'results at time 1500057
+    top_tb.DUV.pkt_tx_data[63:0]'.
+With selected criteria, DVE has found 'results at time 1500050
+    top_tb.DUV.wb_dat_i[31:0]'.
+With selected criteria, DVE has found 'results at time 0
+    top_tb.DUV.wb_dat_i[31:0]'.
+Warning: [DVWW009] 
+Seek hit time zero with no more matches.
+Warning: [DVWW009] 
+Seek hit time zero with no more matches.
+With selected criteria, DVE has found 'results at time 1500050
+    top_tb.DUV.wb_dat_i[31:0]'.
+Warning: [DVWW010] 
+Seek hit end of values with no more matches.
+Warning: [DVWW010] 
+Seek hit end of values with no more matches.
+Warning: [DVWW010] 
+Seek hit end of values with no more matches.
+Warning: [DVWW010] 
+Seek hit end of values with no more matches.
+The file '/home/sf10286/UVM-Project/Advait_Madhekar/sim/verilog_new/vcdplus.vpd' was opened successfully.
+The file '/home/sf10286/UVM-Project/Advait_Madhekar/sim/verilog_new/vcdplus.vpd' was opened successfully.
+The file '/home/sf10286/UVM-Project/Advait_Madhekar/sim/verilog_new/vcdplus.vpd' was opened successfully.
+The file '/home/sf10286/UVM-Project/Advait_Madhekar/sim/verilog_new/vcdplus.vpd' was opened successfully.
+The file '/home/sf10286/UVM-Project/Advait_Madhekar/sim/verilog_new/vcdplus.vpd' was opened successfully.
+The file '/home/sf10286/UVM-Project/Advait_Madhekar/sim/verilog_new/vcdplus.vpd' was opened successfully.
+With selected criteria, DVE has found 'results at time 1000030
+    top_tb.DUV.wishbone_if0.ctrl_tx_enable'.
+Warning: [DVWW010] 
+Seek hit end of values with no more matches.
+With selected criteria, DVE has found 'results at time 1500051
+    top_tb.DUV.pkt_tx_data[63:0]'.
+With selected criteria, DVE has found 'results at time 1500057
+    top_tb.DUV.pkt_tx_data[63:0]'.

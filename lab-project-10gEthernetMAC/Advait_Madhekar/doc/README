@@ -1,0 +1,14 @@
+
+Useful Directories:
+
+  - /testbench/verilog_new/
+
+All verilog files.
+
+  - /sim/verilog_new/
+
+Simulation Directory. 
+
+  - /testcases/
+
+Testcase sequences. They're not too elaborate, but it's what I could achieve in the time I had.
