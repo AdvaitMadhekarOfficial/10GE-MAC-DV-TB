@@ -1,4 +1,4 @@
-sdnbosdn
+
 `uvm_analysis_imp_decl(_ap_rx)
 `uvm_analysis_imp_decl(_ap_tx)
 
